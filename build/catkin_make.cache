@@ -1,0 +1,2 @@
+realsense/realsense2_camera:realsense/realsense2_description:rgbd_launch
+-DCATKIN_DEVEL_PREFIX=/home/li/ROS/realsense/devel -DCMAKE_INSTALL_PREFIX=/home/li/ROS/realsense/install -G Unix Makefiles
